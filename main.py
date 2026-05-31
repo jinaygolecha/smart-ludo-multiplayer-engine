@@ -400,7 +400,7 @@ button = tk.Button(ludo.get_frame(), text='ROLL', command=Dice.start, width=20, 
 button.place(x=210, y=470)
 
 
-welcome_msg = ''' Welcome Champs let's get into the game of LUDO :-) \n
+welcome_msg = ''' Welcome GUYS let's get into the game of LUDO :-) \n
         Rules of the game:
 - The players roll a six-sided die in turns and can advance any of their coins on the track by the number of steps as displayed by the dice.\n
 - Once you get a six in a dice throw, you have to roll the dice again, and must use all scores while making the final selection of what coins to move where.\n
