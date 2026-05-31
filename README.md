@@ -1,4 +1,4 @@
-mart Ludo Multiplayer Engine
+Smart Ludo Multiplayer Engine
 
 A complete multiplayer Ludo game developed in Python featuring a graphical user interface, turn-based gameplay, dice mechanics, and AI-controlled bot players.
 
